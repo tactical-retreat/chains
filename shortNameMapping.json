@@ -1095,6 +1095,8 @@
   "ALL": "eip155:651940",
   "vpioneer": "eip155:666666",
   "hela-testnet": "eip155:666888",
+  "ferdy": "eip155:666984",
+  "ferdy-testnet": "eip155:668577",
   "BRNKCTEST": "eip155:751230",
   "Miexs": "eip155:761412",
   "mdlrm": "eip155:776877",

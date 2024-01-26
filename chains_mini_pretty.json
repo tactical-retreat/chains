@@ -14247,6 +14247,32 @@
   "faucets": ["https://testnet-faucet.helachain.com"],
   "infoURL": "https://helalabs.com"
 }, {
+  "name": "Ferdy Subnet",
+  "chainId": 666984,
+  "shortName": "ferdy",
+  "networkId": 666984,
+  "nativeCurrency": {
+    "name": "Ferdy AVAX",
+    "symbol": "FAVAX",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.ferdyflip.xyz"],
+  "faucets": [],
+  "infoURL": "https://www.ferdyflip.xyz"
+}, {
+  "name": "Ferdy Subnet Testnet",
+  "chainId": 668577,
+  "shortName": "ferdy-testnet",
+  "networkId": 668577,
+  "nativeCurrency": {
+    "name": "Ferdy AVAX",
+    "symbol": "FAVAX",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet-rpc.ferdyflip.xyz"],
+  "faucets": ["https://core.app/en/tools/testnet-faucet/?subnet=ferdynet"],
+  "infoURL": "https://www.ferdyflip.xyz"
+}, {
   "name": "Bear Network Chain Testnet",
   "chainId": 751230,
   "shortName": "BRNKCTEST",
