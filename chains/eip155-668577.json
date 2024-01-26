@@ -2,12 +2,8 @@
   "name": "Ferdy Subnet Testnet",
   "chain": "FERDY",
   "icon": "ferdy",
-  "rpc": [
-    "https://testnet-rpc.ferdyflip.xyz"
-  ],
-  "faucets": [
-    "https://core.app/en/tools/testnet-faucet/?subnet=ferdynet"
-  ],
+  "rpc": ["https://testnet-rpc.ferdyflip.xyz"],
+  "faucets": ["https://core.app/en/tools/testnet-faucet/?subnet=ferdynet"],
   "nativeCurrency": {
     "name": "Ferdy AVAX",
     "symbol": "FAVAX",

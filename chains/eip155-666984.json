@@ -2,9 +2,7 @@
   "name": "Ferdy Subnet",
   "chain": "FERDY",
   "icon": "ferdy",
-  "rpc": [
-    "https://mainnet-rpc.ferdyflip.xyz"
-  ],
+  "rpc": ["https://mainnet-rpc.ferdyflip.xyz"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Ferdy AVAX",
