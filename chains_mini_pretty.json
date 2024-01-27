@@ -1663,18 +1663,18 @@
   "faucets": [],
   "infoURL": "https://www.hecochain.com"
 }, {
-  "name": "ProtoJumbo Testnet",
+  "name": "Innovator Chain",
   "chainId": 129,
-  "shortName": "ProtoJumbo",
+  "shortName": "Innovator",
   "networkId": 129,
   "nativeCurrency": {
-    "name": "JNFTC",
-    "symbol": "JNFTC",
+    "name": "INOV8",
+    "symbol": "INOV8",
     "decimals": 18
   },
-  "rpc": ["https://testnode.jumbochain.org"],
-  "faucets": ["https://protojumbo.jumbochain.org/faucet-smart"],
-  "infoURL": "https://jumbochain.org"
+  "rpc": ["https://rpc.innovatorchain.com"],
+  "faucets": [],
+  "infoURL": "https://innovatorchain.com"
 }, {
   "name": "Engram Testnet",
   "chainId": 131,
