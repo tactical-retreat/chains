@@ -455,6 +455,14 @@
     "format": "png"
   }]
 }, {
+  "name": "berachain",
+  "icons": [{
+    "url": "ipfs://QmW2xrDkSqBB7qgftp5PUecEGg4zwUBJgSN45CaR7CKJMr",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "phi",
   "icons": [{
     "url": "ipfs://bafkreid6pm3mic7izp3a6zlfwhhe7etd276bjfsq2xash6a4s2vmcdf65a",
@@ -669,6 +677,14 @@
     "width": 256,
     "height": 256,
     "format": "png"
+  }]
+}, {
+  "name": "blast",
+  "icons": [{
+    "url": "ipfs://bafybeifc2h3x7jgy4x4nmg2m54ghbvmkfu6oweujambwefzqzew5vujhsi",
+    "width": 400,
+    "height": 400,
+    "format": "jpg"
   }]
 }, {
   "name": "camelark",
@@ -2551,6 +2567,14 @@
     "format": "png"
   }]
 }, {
+  "name": "nexaChain",
+  "icons": [{
+    "url": "ipfs://bafkreib2t2lcaoh6iixrx4gjjvepws5tlsszfla5hb36b3mgyq7clve35y",
+    "width": 192,
+    "height": 192,
+    "format": "png"
+  }]
+}, {
   "name": "msn",
   "icons": [{
     "url": "ipfs://QmaQxfwpXYTomUd24PMx5tKjosupXcm99z1jL1XLq9LWBS",
@@ -2764,6 +2788,14 @@
     "url": "ipfs://Qmb2UYVc1MjLPi8vhszWRxqBJYoYkWQVxDJRSmtrgk6j2E",
     "width": 64,
     "height": 64,
+    "format": "png"
+  }]
+}, {
+  "name": "jono12",
+  "icons": [{
+    "url": "ipfs://bafkreievzx4ke62dtc77o47x7vs7nn67ghzrwku6h5dxo3hwcsqfeblke4",
+    "width": 612,
+    "height": 612,
     "format": "png"
   }]
 }, {

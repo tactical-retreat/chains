@@ -9541,6 +9541,19 @@
   "faucets": ["https://t.me/BerylBit"],
   "infoURL": "https://www.beryl-bit.com"
 }, {
+  "name": "Nexa Block",
+  "chainId": 9024,
+  "shortName": "Nexa",
+  "networkId": 9024,
+  "nativeCurrency": {
+    "name": "Nexa Token",
+    "symbol": "NEXB",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet-nodes.nexablockscan.io"],
+  "faucets": ["https://nexablockscan.io/faucet"],
+  "infoURL": "https://www.nexablock.io/"
+}, {
   "name": "Genesis Coin",
   "chainId": 9100,
   "shortName": "GENEC",
@@ -10710,6 +10723,19 @@
   "rpc": ["https://rpc.mainnet.oasys.homeverse.games/"],
   "faucets": [],
   "infoURL": "https://www.homeverse.games/"
+}, {
+  "name": "Magnet Network",
+  "chainId": 19527,
+  "shortName": "mgt",
+  "networkId": 19527,
+  "nativeCurrency": {
+    "name": "Magnet Network",
+    "symbol": "DOT",
+    "decimals": 18
+  },
+  "rpc": ["https://magnet-rpc.magport.io/"],
+  "faucets": [],
+  "infoURL": "https://magnet.magport.io/"
 }, {
   "name": "BTCIX Network",
   "chainId": 19845,
@@ -12504,6 +12530,19 @@
   "rpc": ["https://rpc-mumbai.maticvigil.com", "https://polygon-mumbai-bor.publicnode.com", "wss://polygon-mumbai-bor.publicnode.com", "https://polygon-mumbai.gateway.tenderly.co", "wss://polygon-mumbai.gateway.tenderly.co"],
   "faucets": ["https://faucet.polygon.technology/"],
   "infoURL": "https://polygon.technology/"
+}, {
+  "name": "Berachain Artio",
+  "chainId": 80085,
+  "shortName": "berachainArtio",
+  "networkId": 80085,
+  "nativeCurrency": {
+    "name": "BERA Token",
+    "symbol": "BERA",
+    "decimals": 18
+  },
+  "rpc": ["https://artio.rpc.berachain.com", "https://rpc.ankr.com/berachain_testnet"],
+  "faucets": ["https://artio.faucet.berachain.com"],
+  "infoURL": "https://www.berachain.com"
 }, {
   "name": "Nordek Mainnet",
   "chainId": 81041,
@@ -14468,6 +14507,19 @@
   "faucets": ["https://faucet-testnet.fncy.world"],
   "infoURL": "https://fncyscan-testnet.fncy.world"
 }, {
+  "name": "Jono12 Subnet",
+  "chainId": 955081,
+  "shortName": "jono12",
+  "networkId": 955081,
+  "nativeCurrency": {
+    "name": "Jono12 Token",
+    "symbol": "JONO",
+    "decimals": 18
+  },
+  "rpc": ["https://subnets.avax.network/jono12/testnet/rpc"],
+  "faucets": [],
+  "infoURL": ""
+}, {
   "name": "Eluvio Content Fabric",
   "chainId": 955305,
   "shortName": "elv",
@@ -15299,6 +15351,19 @@
   "rpc": ["https://toys.joys.cash/"],
   "faucets": ["https://faucet.joys.digital/"],
   "infoURL": "https://joys.digital"
+}, {
+  "name": "Blast Sepolia Testnet",
+  "chainId": 168587773,
+  "shortName": "blastsepolia",
+  "networkId": 168587773,
+  "nativeCurrency": {
+    "name": "Sepolia Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://sepolia.blast.io"],
+  "faucets": ["https://faucet.quicknode.com/blast/sepolia"],
+  "infoURL": "https://blast.io/"
 }, {
   "name": "Gather Mainnet Network",
   "chainId": 192837465,
