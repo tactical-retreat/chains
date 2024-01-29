@@ -4428,6 +4428,26 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Cosvm Mainnet",
+  "chain": "CVM",
+  "rpc": ["https://rpc.cosvm.net"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Cosvm",
+    "symbol": "CVM",
+    "decimals": 18
+  },
+  "infoURL": "https://cosvm.network",
+  "shortName": "cvm",
+  "chainId": 323,
+  "networkId": 323,
+  "explorers": [{
+    "name": "Blockscout",
+    "url": "https://explorer.cosvm.net",
+    "icon": "blockscout",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "zkSync Mainnet",
   "chain": "ETH",
   "rpc": ["https://mainnet.era.zksync.io"],
@@ -10648,7 +10668,7 @@
 }, {
   "name": "Kava",
   "chain": "KAVA",
-  "rpc": ["https://evm.kava.io", "https://kava-rpc.gateway.pokt.network", "https://kava-evm.rpc.thirdweb.com", "wss://wevm.kava.io", "https://kava-evm.publicnode.com", "wss://kava-evm.publicnode.com"],
+  "rpc": ["https://evm.kava.io", "https://kava-rpc.gateway.pokt.network", "https://kava-evm.rpc.thirdweb.com", "wss://wevm.kava.io", "https://kava-evm.publicnode.com", "wss://kava-evm.publicnode.com", "https://evm.kava-rpc.com", "https://rpc.ankr.com/kava_evm", "wss://wevm.kava-rpc.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Kava",
@@ -17215,6 +17235,26 @@
   "explorers": [{
     "name": "JONO11 Explorer",
     "url": "https://subnets-test.avax.network/jono11",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "All About Healthy",
+  "chain": "AAH",
+  "rpc": ["https://rpc.c4ex.net"],
+  "faucets": ["https://t.me/c4eiAirdrop"],
+  "nativeCurrency": {
+    "name": "AAH",
+    "symbol": "AAH",
+    "decimals": 18
+  },
+  "infoURL": "https://c4ex.net",
+  "shortName": "aah",
+  "chainId": 21133,
+  "networkId": 21133,
+  "explorers": [{
+    "name": "AAH Blockscout",
+    "url": "https://exp.c4ex.net",
+    "icon": "aah",
     "standard": "EIP3091"
   }]
 }, {
